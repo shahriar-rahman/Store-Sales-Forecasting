@@ -1,2 +1,3 @@
-# Sale-Price-Forecasting
-Based on the Store Sales - Time Series Forecasting dataset from Kaggle competitions.
+# Forecasting-Ames-Housing-Price
+Prediction of housing prices using advanced regression on Ames dataset from the Kaggle competition.
+Work in Progress....

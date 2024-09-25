@@ -1,0 +1,2 @@
+The dataset can be acquired from the following link:
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting
