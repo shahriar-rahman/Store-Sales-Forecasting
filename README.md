@@ -18,3 +18,10 @@ The following datasets will be studied, observed, and merged for preprocessing b
 
 ### Sample Submission:
 The sample_submission.csv will only be used to perform submission on Kaggle.
+
+## Potential Model Evaluations
+The following models are chosen for deep-introspection and comparative analysis based on Root Mean Squared Log Error (RMSLE):
+* Linear Regression
+* XGBoost
+* ARIMA/SARIMA
+* LSTM
