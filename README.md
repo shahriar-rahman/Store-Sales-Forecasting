@@ -2,7 +2,10 @@
 Work in Progress....
 
 ## Primary Goal:  
-Our primary goal is to form a comparative analysis on a time-series dataset from the kaggle competition 'Store Sales - Time Series Forecasting'.
+Our primary goal is to form a comparative analysis on a time-series dataset from the kaggle competition 'Store Sales - Time Series Forecasting'. 
+
+<br>
+
 Competition Link: https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
 ## Datasets:
