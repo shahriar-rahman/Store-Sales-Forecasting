@@ -2,7 +2,7 @@
 Forecast the sales (in units) for a family of products in stores.
 
 ## Work in Progress
-Currently, we are working on multiple projects simultaneously. The work for this project will continue after other projects are concluded.
+Currently, our group are working on multiple projects simultaneously. The work for this project will continue after other projects are concluded.
 
 ## Primary Goal:  
 Our primary goal is to form a comparative analysis on a time-series dataset from the kaggle competition 'Store Sales - Time Series Forecasting'. 
